@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">PANCASILA</h1>
+
+    <img src="SILA-1.png" width="140 " height="150" style="float:left;" hspace="20"> <br>
+    <h4>Ketuhanan yang Maha Esa</h4>
+    <br>
+    <br>
+    <img src="sila-2.png" width="120" height="130" style="float: right;" hspace="20"> <br>
+    <h4 align="right">Kemanusiaan yang Adi dan Beradab</h4>
+    <br>
+    <br>
+
+    <img src="sila-3.jpg" width="150" height="160" style="float: left;" hspace="20"> <br>
+    <h4>Persatuan Indonesia</h4>
+    <br>
+    <br>
+    <img src="sila-4.png" width="120" height="130" style="float: right;" hspace="20"> <br>
+    <h4 align="right">Kerakyatan yang dipimpin oleh himat kebijaksanaan dalam permusyawaratan perwakilan</h4>
+    <br>
+    <br>
+    <img src="sila-5.png
+" width="150" height="160" style="float: left;" hspace="20"> <br>
+    <h4>Keadilan bagi seluruh rakyat Indonesia</h4>
+    <br>
+    <br>
+    <br><br><br>
+
+    <hr>
+    <hr>
+    <h2 align="center" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Resep Omlete
+        Lezat</h2>
+    <br>
+
+    <img src="omlete.jpg" width="150" height="160" style="float: right;" hspace="20"> <br>
+    <h3 style="font-family: Arial, Helvetica, sans-serif;">Bahan Bahan</h3>
+    <ul>
+        <li>Mie instan </li>
+        <li>1 butir telur</li>
+    </ul>
+    <hr>
+
+    <h3
+        style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+        Langkah- langkah</h3>
+
+    <ol type="1">
+        <li>Masak mie setengah matang</li>
+        <img src="rebus mie.jpg" width="150" height="140"> <br> <br>
+
+        <li>Campur dan aduk dengan telur serta bumbu mie</li>
+        <img src="aduk mie.jpg" width="130" height="140"> <br><br>
+
+        <li>Goreng dan tiriskan</li>
+        <img src="omlete.jpg" width="130" height="140"><br><br>
+
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+        <table width="60%" border="1" cellpadding="4" style="border-collapse:collapse">
+            <thead>
+                <tr>
+                    <th rowspan="3">NIS</th>
+                    <th rowspan="3">Nama</th>
+                    <th colspan="9">bulan</th>
+                </tr>
+                <tr>
+                    <th colspan="3">Januari</th>
+                    <th colspan="3">Februari</th>
+                    <th colspan="3">Maret</th>
+                </tr>
+                <tr>
+                    <td align="center">S</td>
+                    <td align="center">I</td>
+                    <td align="center">A</td>
+                    <td align="center">S</td>
+                    <td align="center">I</td>
+                    <td align="center">A</td>
+                    <td align="center">S</td>
+                    <td align="center">I</td>
+                    <td align="center">A</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>111</td>
+                    <td>Duan Tangguh</td>
+                    <td>0</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>112</td>
+                    <td>Valencia Yulia</td>
+                    <td>0</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <br><br><br><br><br><br><br><br><br><br><br>
+
+        <br>
+        <img src="./Garuda.png" width="150" align="left" hspace="20" vspace="10">
+        <br><br>
+        <h1 align="center"><b>KARTU KELUARGA</b></h1>
+        <h3 align="center"><b>No.0000213123934294</b></h3>
+        <br>
+        <br>
+
+        <table border="1" cellspacing="0" cellpadding="20" align="center" width="100%">
+            <tr>
+                <td>No</td>
+                <th>Nama Lengkap</th>
+                <th>NIK</th>
+                <th>Jenis Kelamin</th>
+                <th>Tempat Lahir</th>
+                <th>Tanggal Lahir</th>
+                <th>Agama</th>
+                <th>Pendidikan</th>
+                <th>Jenis Pekerjaan</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th align="center">(1)</th>
+                <th align="center">(2)</th>
+                <th align="center">(3)</th>
+                <th align="center">(4)</th>
+                <th align="center">(5)</th>
+                <th align="center">(6)</th>
+                <th align="center">(7)</th>
+                <th align="center">(8)</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <th>TANGGUH WIDIYATNO</th>
+                <th>351903071070003</th>
+                <th>L</th>
+                <th>MADIUN</th>
+                <th>07-10-71</th>
+                <th>ISLAM</th>
+                <th>S1</th>
+                <th>WIRASWASTA</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>ENI PURWANDHANINGSIH</th>
+                <th>3519035909730001</th>
+                <th>P</th>
+                <th>MADIUN</th>
+                <th>19-09-73</th>
+                <th>ISLAM</th>
+                <th>D3</th>
+                <th>WIRASWASTA</th>
+            </tr>
+            <tr>
+                <th>3</th>
+                <th>KARENINA MEUTHIA DEWI</th>
+                <th>3519035206990004</th>
+                <th>P</th>
+                <th>MADIUN</th>
+                <th>12-06-99</th>
+                <th>ISLAM</th>
+                <th>S1</th>
+                <th>PEGAWAI</th>
+            </tr>
+            <tr>
+                <th>4</th>
+                <th>DUAN TANGGUH MANGGALA PUTRA</th>
+                <th>3519032501070003</th>
+                <th>L</th>
+                <th>MADIUN</th>
+                <th>25-01-07</th>
+                <th>ISLAM</th>
+                <th>BELUM TAMAT</th>
+                <th>BELUM BEKERJA</th>
+            </tr>
+        </table>
+
+</body>
+
+</html>
